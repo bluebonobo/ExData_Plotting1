@@ -1,10 +1,9 @@
 ## Dear Coursera Peer Reviewer
 
 This repository contains the following files
-<ol>
-<li>`plot1.R`, `plot2.R`, `plot3.R`, `plot4.R`</li>
-<li>`plot1.png`, `plot2.png`, `plot3.png`, `plot4.png`</li>
-</ol>
+
+*`plot1.R`, `plot2.R`, `plot3.R`, `plot4.R`
+*`plot1.png`, `plot2.png`, `plot3.png`, `plot4.png`
 
 Thanks for reading
 Bluebonobo
