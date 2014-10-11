@@ -1,8 +1,13 @@
-## Dear Coursera Grader
+## Dear Coursera Peer Reviewer
 
-This reporistory contains the following files
-`plot1.R`, `plot2.R`, `plot3.R`, `plot4.R`
-`plot1.png`, `plot2.png`, `plot3.png`, `plot4.png`
+This repository contains the following files
+<ol>
+<li>`plot1.R`, `plot2.R`, `plot3.R`, `plot4.R`</li>
+<li>`plot1.png`, `plot2.png`, `plot3.png`, `plot4.png`</li>
+</ol>
+
+Thanks for reading
+Bluebonobo
 
 ## Introduction
 
